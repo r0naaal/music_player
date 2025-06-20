@@ -1,0 +1,11 @@
+/* Red border for HBox */
+.red-border {
+    -fx-border-width: 2px;
+    -fx-border-color: red;
+}
+
+/* Blue border for VBox */
+.blue-border {
+    -fx-border-width: 2px;
+    -fx-border-color: blue;
+}
